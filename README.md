@@ -88,7 +88,5 @@ Sample User Logins
 admin@example.com (Admin)
 123456
 
-ali@example.com (Customer)
+john@example.com (Customer)
 123456
-```
-[Login/Register proshop ](https://aliahmadshop.herokuapp.com/register?redirect=/)
